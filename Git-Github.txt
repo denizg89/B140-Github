@@ -6,3 +6,4 @@
 5-Git commit -m"version adi" kodunu yazark stage deki kodlarımızzdan version olusturmus oluruz.
 6-Working space ve stage deki kodlarımızın durumunu gormek ıcın git status komutunu kullanırız.
 7-commit stora(yani evrsion olusturdugumuz ter) deki versiyonlarımızı gormek ıcın de git log--oneline komutunu kullanırız
+8-Oluşturmuş olduğumuz versiyonu github'a gönderebilmek için git push <github repository adresi> yada devamlı kullanıcağımız bir repoysa git remote add origin <repo adresi>/git push -u master komutuyla github'a gönderebiliriz
